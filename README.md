@@ -18,6 +18,7 @@ BOM:
 ## Images
 
 ### Complete Macropad
+* I don't exactly know how to find 3d models, so unfortunately this is all I could come up with.
 ![Full Macropad](images/full.png)
 
 ### PCB Design
